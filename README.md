@@ -19,7 +19,7 @@
 <img src="screenshot/ss1.png" width="390"/>
 
 ---
-当前为mini版，暂不支持
+当前为 mini 版，暂不支持
 
 - 横向
 - 多个 Item 模板类型，变高
