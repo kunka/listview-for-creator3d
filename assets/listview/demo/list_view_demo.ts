@@ -1,6 +1,6 @@
 
 import { Component, Label, Node, _decorator } from 'cc';
-import { ListView } from './list_view';
+import { ListView } from '../script/list_view';
 const { ccclass, property } = _decorator;
 
 const allItems:number[] = [];
@@ -8,8 +8,8 @@ for (let i = 0; i < 1000; i++) {
   allItems.push(i);
 }
 
-@ccclass('ListViewTest')
-export class ListViewTest extends Component {
+@ccclass('ListViewDemo')
+export class ListViewDemo extends Component {
   @property(ListView) listView: ListView;
 
   start() {
