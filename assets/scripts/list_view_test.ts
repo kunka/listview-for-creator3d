@@ -13,7 +13,7 @@ export class ListViewTest extends Component {
   @property(ListView) listView: ListView;
 
   start() {
-    this.set1000Items();
+
   }
 
   set5Items() {
