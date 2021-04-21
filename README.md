@@ -8,9 +8,10 @@
 
 ### 使用步骤
 
-1. 挂在 `ScrollView` 节点上
-2. 连接 `ItemTemplate`
-3. 设置 `SpaceY`
+1. 下载并导入资源包
+2. 在 `ScrollView` 节点上挂载 `ListView` 组件
+3. 连接 `ItemTemplate`
+4. 设置 `SpaceY`
 
 > 推荐在 `ScrollView` 的 Content 里放一个 Item 模板  
 > Content 不需要挂 Layout
