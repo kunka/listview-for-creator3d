@@ -2107,6 +2107,7 @@
       "__id__": 2
     },
     "_enabled": true,
+    "__prefab": null,
     "listView": {
       "__id__": 30
     },
