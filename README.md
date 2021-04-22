@@ -18,6 +18,10 @@
 
 <img src="screenshot/ss1.png" width="390"/>
 
+ 5. 代码设置
+
+<img src="screenshot/ss3.png" width="390"/>
+
 ---
 当前为 mini 版，暂不支持
 
